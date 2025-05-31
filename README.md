@@ -18,7 +18,7 @@ Hi there! I'm Manav Singh, a passionate full-stack developer with a strong comma
 # 📊 GitHub Stats:
 <div align="center">
   
-   ![Leetcode Stats](https://leetcard.jacoblin.cool/manavsingh?ext=heatmap)
+   ![Leetcode Stats](https://leetcard.jacoblin.cool/manavsingh321?ext=heatmap)
   <img src="https://github-readme-stats.vercel.app/api?username=manavsingh345&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=manavsingh345&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
