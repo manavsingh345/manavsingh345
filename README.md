@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manav Singh</h1>
 <h3 align="center">A passionate full-stack developer with a strong command of React.js. I enjoy building dynamic and responsive web applications that deliver great user experiences. </h3>
 
-  
-  <h3 align="center">🌱 Currently learning Docker to deepen my DevOps and deployment skills </h3>
-  <h3 align="center">💻 Comfortable working on both frontend and backend </h3>
-  <h3 align="center">⚛️ Love working with React.js and modern JavaScript frameworks </h3>
-  <h3 align="center">🚀 Always eager to learn and explore new technologies</h3>
-
+  <h3 align="center">1️⃣ Currently learning Docker to deepen my DevOps and deployment skills 🌱</h3>
+<h3 align="center">2️⃣ Comfortable working on both frontend and backend 💻</h3>
+<h3 align="center">3️⃣ Strong command of React.js and modern JavaScript frameworks ⚛️</h3>
+<h3 align="center">4️⃣ Always eager to learn and explore new technologies 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavsingh345&label=Profile%20views&color=0e75b6&style=flat" alt="manavsingh345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavsingh345" alt="manavsingh345" /></a> </p>
