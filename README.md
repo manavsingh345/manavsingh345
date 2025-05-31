@@ -21,5 +21,5 @@ Hi there! I'm Manav Singh, a passionate full-stack developer with a strong comma
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manavsingh345&icon=0&color=0)](https://visitcount.itsvg.in)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/manavsingh321?ext=heatmap)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
