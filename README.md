@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manav Singh</h1>
-<h3 align="center">A passionate full-stack developer with a strong command of React.js. I enjoy building dynamic and responsive web applications that deliver great user experiences. 🌱 Currently learning Docker to deepen my DevOps and deployment skills 💻 Comfortable working on both frontend and backend ⚛️ Love working with React.js and modern JavaScript frameworks 🚀 Always eager to learn and explore new technologies</h3>
+<h3 align="center">A passionate full-stack developer with a strong command of React.js. I enjoy building dynamic and responsive web applications that deliver great user experiences. 
+  🌱 Currently learning Docker to deepen my DevOps and deployment skills 
+  💻 Comfortable working on both frontend and backend 
+  ⚛️ Love working with React.js and modern JavaScript frameworks 
+  🚀 Always eager to learn and explore new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavsingh345&label=Profile%20views&color=0e75b6&style=flat" alt="manavsingh345" /> </p>
 
