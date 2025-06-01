@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi there! I'm Manav Singh, a passionate full-stack developer with a strong command of React.js. I enjoy building dynamic and responsive web applications that deliver great user experiences.</h1><br><br>🌱 Currently learning Docker to deepen my DevOps and deployment skills<br><br>💻 Comfortable working on both frontend and backend<br><br>⚛️ Love working with React.js and modern JavaScript frameworks<br><br>🚀 Always eager to learn and explore new technologies
+<b>Hi there! I'm Manav Singh, a passionate full-stack developer with a strong command of React.js. I enjoy building dynamic and responsive web applications that deliver great user experiences.</b><br><br>🌱 Currently learning Docker to deepen my DevOps and deployment skills<br><br>💻 Comfortable working on both frontend and backend<br><br>⚛️ Love working with React.js and modern JavaScript frameworks<br><br>🚀 Always eager to learn and explore new technologies
 
 
 ## 🌐 Socials:
