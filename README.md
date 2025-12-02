@@ -14,7 +14,7 @@
 
  <div align="center">
   <h2>🏆 LeetCode Stats</h2>
-  <img src="https://leetcard.jacoblin.cool/manavsingh321?ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/manavsingh758?ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 
