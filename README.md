@@ -13,14 +13,14 @@
       <td>10</td>
       <td>MERN Stack</td>
       <td>React.js + Next.js</td>
-      <td>TypeScript, JavaScript, C/C++ </td>
+      <td>TypeScript, JavaScript, C/C++</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>9</td>
       <td>MERN Stack</td>
       <td>Node.js + Express.js</td>
-      <td>REST APIs, authentication (JWT), Clerk</td>
+      <td>REST APIs, authentication (JWT),Clerk</td>
       <td>Intermediate</td>
     </tr>
     <tr>
@@ -34,42 +34,42 @@
       <td>7</td>
       <td>DevOps</td>
       <td>Docker</td>
-      <td>Containerization, multi-stage builds, Images</td>
+      <td>Containerization, multi-stage builds, image optimization</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>6</td>
       <td>DevOps</td>
       <td>Kubernetes</td>
-      <td>Pods, services, deployments, scaling basics</td>
+      <td>Pods, deployments, scaling, Argo CD (GitOps)</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>5</td>
       <td>DevOps</td>
       <td>Cloud (AWS)</td>
-      <td>EC2, environment setup, app deployment</td>
+      <td>EC2, Terraform (IaC), environment setup, deployments</td>
       <td>Intermediate–Advanced</td>
     </tr>
     <tr>
       <td>4</td>
       <td>DevOps</td>
       <td>Monitoring</td>
-      <td>Grafana, metrics visualization, alerts</td>
+      <td>Prometheus, Grafana, metrics</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>3</td>
       <td>DevOps</td>
       <td>CI/CD</td>
-      <td>GitHub Actions, automated build & deploy</td>
+      <td>GitHub Actions, Jenkins, automated pipelines</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>2</td>
       <td>DevOps</td>
-      <td>Git & GitHub</td>
-      <td>Version control, PR workflow, branching</td>
+      <td>Git & Workflow</td>
+      <td>GitHub, Jira, PR workflow, issue tracking</td>
       <td>Advanced</td>
     </tr>
     <tr>
@@ -81,7 +81,6 @@
     </tr>
   </tbody>
 </table>
-
 
 
 
